@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://travel-nu-umber.vercel.app/api/$1"
+    }
+  ]
+}
